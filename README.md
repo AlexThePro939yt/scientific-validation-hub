@@ -105,4 +105,39 @@ Você não precisa rodar isso manualmente. Deixe a IA fazer o trabalho pesado.
 4.  Abra o chat do Gemini e digite:
     > *"Valide este teste para mim, execute o código e me diga se meu agente tem densidade suficiente para produção."*
 
+---
+
+## 📜 Licença
+
+🪪 Este projeto é licenciado sob a **Licença MIT** — veja o arquivo [LICENSE](LICENSE) para detalhes.  
+<sub>© 2025 Aledev — Todos os direitos reservados nos componentes criativos.</sub>
+
+---
+### Autor
+
+[![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0009-0004-2060-1150) [Aledev](https://orcid.org/0009-0004-2060-1150)
+
+---
+
+
+<p align="center">
+  <sub>
+  Desenvolvido com 🧠 + 🜂 por <b>Aledev</b> • 
+  <a href="https://github.com/aleeepassarelli">GitHub</a> • 
+  <a href="mailto:al.passarelli@gmail.com">Email</a> • 
+  <a href="https://x.com/alpassarelli">Twitter</a>
+  </sub>
+</p>
+
+# **⭐ Se este framework foi útil, considere dar uma estrela no GitHub!**
+
+
+
+
+---
+
+*Versão 0.1 | Outubro 2025 | Licenciado sob MIT*`
+
+---
+
 
