@@ -14,7 +14,7 @@ Ferramentas exclusivas desenvolvidas sob o framework **Semantic Latent Engineeri
 
 | Ferramenta | Descrição | Status de Validação | Executar Agora |
 | :--- | :--- | :---: | :---: |
-| **🔍 Semantic Density (SD)** | Valida a densidade informacional e precisão vetorial de prompts e agentes. | ![Pass](https://img.shields.io/badge/Scientific_Validation-PASSING-success) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleeepassarelli/scientific-validation-hub/blob/main/notebooks/sd_validator.ipynb) |
+| **🔍 Semantic Density (SD)** | Valida a densidade informacional e precisão vetorial de prompts e agentes. | ![Pass](https://img.shields.io/badge/Scientific_Validation-PASSING-success) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleeepassarelli/scientific-validation-hub/blob/main/notebooks/sd_validator.ipynb.ipynb) |
 | **🧠 Behavior Contract (CCC)** | Auditoria de aderência à missão e consistência de persona (Mission Adherence). | ![Pass](https://img.shields.io/badge/Adherence_Status-PASS-success) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleeepassarelli/scientific-validation-hub/blob/main/notebooks/behavior_validator.ipynb) |
 
 ---
