@@ -24,7 +24,7 @@ Ferramentas exclusivas desenvolvidas sob o framework **Semantic Latent Engineeri
 | **🧬 02. Data Versioning** | **DVC**: Versionamento de Prompts e Dados. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/02_data_version.ipynb) |
 | **📦 03. Metadata Packaging** | **RO-Crate**: Empacotamento FAIR para pesquisa. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](/notebooks/03_metadata.ipynb) |
 | **🏛️ 04. Digital Archiving** | **Zenodo**: Gerando DOIs para seu código (Sandbox). | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/04_archiving.ipynb) |
-| **✅ 05. Notebook Testing** | **nbval**: Testes unitários para células de código. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleeepassarelli/scientific-validation-hub/blob/main/notebooks/05_testing.ipynb) |
+| **✅ 05. Notebook Testing** | **nbval**: Testes unitários para células de código. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/05_testing.ipynb) |
 
 ---
 
