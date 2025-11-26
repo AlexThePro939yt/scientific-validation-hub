@@ -19,7 +19,7 @@ Ferramentas exclusivas desenvolvidas sob o framework **Semantic Latent Engineeri
 | :--- | :--- | :---: | :---: |
 | **🔍 Semantic Density (SD)** | Valida a densidade informacional e precisão vetorial de prompts e agentes. | [![Pass](https://img.shields.io/badge/Scientific_Validation-PASSING-success)](notebooks/ACC_Validation.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/sd_validator_ipynb.ipynb) |
 | **🧠 Behavior Contract (CCC)** | Auditoria de aderência à missão e consistência de persona (Mission Adherence). | [![Pass](https://img.shields.io/badge/Adherence_Status-PASS-success)](notebooks/validation_core.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/behavior_validator.ipynb) |
-| **✅ Consensus Core (CC)** | Validador de intenção, estruturado em álgebra (Intension). |  [![Pass](https://img.shields.io/badge/Consensus_Validation-PASSING-success)](notebooks/consensus_core.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/consensus_core.ipynb) |
+| **✅ Consensus Core (CC)** | Validador de intenção, estruturada em lógica (Intension). |  [![Pass](https://img.shields.io/badge/Consensus_Validation-PASSING-success)](notebooks/consensus_core.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/consensus_core.ipynb) |
 
 ---
 | Experimento | Conceito | Executar |
