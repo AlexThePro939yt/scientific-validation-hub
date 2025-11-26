@@ -1,6 +1,6 @@
 # 🔬 Scientific Validation Hub
 
-> **O Arsenal Definitivo para Validação Científica em IA e Data Science.**
+> **O repositório Definitivo para Validação Científica em IA e Data Science.**
 > Um hub modular de ferramentas ("Legos") para garantir rigor, reprodutibilidade e densidade semântica em projetos de pesquisa.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -28,7 +28,7 @@ Ferramentas exclusivas desenvolvidas sob o framework **Semantic Latent Engineeri
 
 ---
 
-## 🏗️ O Arsenal (Padrão de Indústria)
+## 🏗️ Validação Científica (Padrão de Indústria)
 
 Uma curadoria "Ultra Hard" (Rigor 1.0) das melhores ferramentas do mercado, organizadas por função. Use como módulos independentes.
 
